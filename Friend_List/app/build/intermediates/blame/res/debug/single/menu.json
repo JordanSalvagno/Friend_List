@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jordansalvagno/AndroidStudioProjects/Friend_List/app/build/intermediates/res/merged/debug/menu/menu_local_activities.xml",
+        "source": "/Users/jordansalvagno/AndroidStudioProjects/Friend_List/app/src/main/res/menu/menu_local_activities.xml"
+    },
+    {
+        "merged": "/Users/jordansalvagno/AndroidStudioProjects/Friend_List/app/build/intermediates/res/merged/debug/menu/long_press_menu.xml",
+        "source": "/Users/jordansalvagno/AndroidStudioProjects/Friend_List/app/src/main/res/menu/long_press_menu.xml"
+    }
+]
